@@ -1,10 +1,9 @@
 - 👋 Hello, my name is Antony
 - 👀 I am interested in... learning more to develop and work in frontend
-👾My hobbies are drawing, playing video games, among other things
+- 👾My hobbies are drawing, playing video games, among other things
 - 🌱 I am currently learning Java, PHP
 - 💞️ I am looking to collaborate on projects or classes that help me increase my information on programming languages
-- 📫 My email?
-📧antonygarciagastelu@gmail.com
+- 📫 My email? antonygarciagastelu@gmail.com📧
 👾👾👾👾👾👾👾👾👾👾👾👾👾
 
 <!---
