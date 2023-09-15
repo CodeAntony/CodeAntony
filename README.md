@@ -4,7 +4,7 @@
 - 🌱 I am currently learning Java, PHP
 - 💞️ I am looking to collaborate on projects or classes that help me increase my information on programming languages
 - 📫 My email? antonygarciagastelu@gmail.com📧
-👾👾👾👾👾👾👾👾👾👾👾👾👾
+  👾👾👾👾👾👾👾👾👾👾👾👾👾
 
 <!---
 CodeAntony/CodeAntony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
